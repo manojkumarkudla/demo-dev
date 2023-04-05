@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: particule/helloworld
+        image: manojkumarkudla/gitops:hellov1.3
         imagePullPolicy: Always
         ports:
         - name: web
