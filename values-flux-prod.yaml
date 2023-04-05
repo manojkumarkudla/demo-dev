@@ -1,6 +1,6 @@
 git:
   pollInterval: 1m
-  url: git@github.com:manojkumarkudla/content-gitops.git
+  url: git@github.com:manojkumarkudla/demo-dev.git
   branch: master
   path: prod
 syncGarbageCollection:
