@@ -2,7 +2,7 @@ git:
   pollInterval: 1m
   url: git@github.com:manojkumarkudla/demo-dev.git
   branch: master
-  path: prod
+  path: prod/
 syncGarbageCollection:
   enabled: true
 manifestGeneration: true
